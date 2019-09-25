@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
 </head>
 <body>
+<h2>asdasd</h2>
  <?php
   $a = 10;
   echo "<table><tr>";
